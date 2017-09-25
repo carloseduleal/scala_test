@@ -1,0 +1,36 @@
+<scoverage 
+statement-count="4" statements-invoked="2" statement-rate="50.00" branch-rate="100.00" version="1.0" timestamp="1506360303059">
+    <packages>
+        <package name="math_operations" statement-count="4" statements-invoked="2" statement-rate="50.00">
+            <classes>
+                <class 
+                name="math_operations.Sum" filename="math_operations/Sum.scala" statement-count="4" statements-invoked="2" statement-rate="50.00" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="math_operations/Sum/subtraction" statement-count="2" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                            <statements>
+                                <statement 
+                                package="math_operations" class="Sum" class-type="Object" full-class-name="math_operations.Sum" source="/Users/celeal/ScalaProofOfConcept/src/main/scala/math_operations/Sum.scala" method="subtraction" start="221" end="232" line="13" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="math_operations" class="Sum" class-type="Object" full-class-name="math_operations.Sum" source="/Users/celeal/ScalaProofOfConcept/src/main/scala/math_operations/Sum.scala" method="subtraction" start="201" end="202" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="math_operations/Sum/sum" statement-count="2" statements-invoked="2" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="math_operations" class="Sum" class-type="Object" full-class-name="math_operations.Sum" source="/Users/celeal/ScalaProofOfConcept/src/main/scala/math_operations/Sum.scala" method="sum" start="105" end="110" line="7" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="math_operations" class="Sum" class-type="Object" full-class-name="math_operations.Sum" source="/Users/celeal/ScalaProofOfConcept/src/main/scala/math_operations/Sum.scala" method="sum" start="93" end="94" line="6" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+            </classes>
+        </package>
+    </packages>
+</scoverage>
